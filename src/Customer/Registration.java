@@ -11,7 +11,7 @@ import java.util.Scanner;
 import java.util.Date;
 
 import Account.BankAccount;
-
+//super class registration
 //Super class Registration
 public class Registration {
     public boolean correctInput = false, ch, notLetter, pinn;
